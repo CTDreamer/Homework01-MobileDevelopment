@@ -1,6 +1,6 @@
 # 📝 Práctica - UNMSM (FISI) 📝
 
-Este repositorio contiene la resolución de una práctica de **Algoritmos** de la Facultad de Ingeniería de Sistemas e Informática (FISI) de la Universidad Nacional Mayor de San Marcos (UNMSM).  
+Este repositorio contiene la resolución de una práctica de **Algoritmos en el curso de SISTEMAS MÓVILES** de la Facultad de Ingeniería de Sistemas e Informática (FISI) de la Universidad Nacional Mayor de San Marcos (UNMSM).  
 
 ## Contenido de la práctica
 
