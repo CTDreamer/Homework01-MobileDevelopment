@@ -31,7 +31,7 @@ La práctica incluye **4 problemas** que deben resolverse diseñando algoritmos:
 Aplicar conceptos de **estructuras secuenciales, condicionales y repetitivas** para resolver problemas algorítmicos, reforzando la lógica y el pensamiento computacional.
 
 ## Tecnologías
-- Java  
+- Kotlin 
 
 ## Autores
 
