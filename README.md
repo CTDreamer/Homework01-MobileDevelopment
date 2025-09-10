@@ -7,3 +7,7 @@
 
 ## 👨‍🏫 Professor
 - **Gelber Uscuchagua Flores**
+
+## 🌿 Notas
+- **La rama main contiene los ejercicios 1 y 4 ya resueltos.**
+- **La rama PirloB incluye las soluciones de los ejercicios 2 y 3.**
